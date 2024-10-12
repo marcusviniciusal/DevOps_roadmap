@@ -26,7 +26,7 @@ markmap:
 ### [ ] [Develop a Site Reliability Engineering (SRE) strategy](https://learn.microsoft.com/en-us/training/paths/az-400-develop-sre-strategy/) 
 ### [ ] [Docker Essentials](https://www.linuxtips.io/course/docker-essentials)
 ### [ ] [Kubernetes Essentials](https://www.linuxtips.io/course/kubernetes-essentials)
-### [ ] [Linux Essentials](https://www.linuxtips.io/course/linux-essentials)
+### [X] [Linux Essentials](https://www.linuxtips.io/course/linux-essentials)
 ### [ ] [Python Essentials](https://www.linuxtips.io/course/python-essentials)
 ### [ ] [Terraform Essentials](https://www.linuxtips.io/course/terraform-essentials)
 ### [ ] [Introduction to GitOps](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/)
