@@ -7,7 +7,14 @@ markmap:
 # DevOps Study
 
 ## Certifications
-### [ ] [FinOps Foundation](https://learn.finops.org/introduction-to-finops)
+
+### AWS
+
+#### [X] [AWS Certified Cloud Practitioner](https://aws.amazon.com/pt/certification/certified-cloud-practitioner/#exam-prep)
+#### [ ] [AWS Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+#### [ ] [AWS SysOps Administrator](https://aws.amazon.com/pt/certification/certified-sysops-admin-associate/) 
+#### [ ] [AWS DevOps Engineer](https://aws.amazon.com/pt/certification/certified-devops-engineer-professional/)
+###  [ ] [FinOps Foundation](https://learn.finops.org/introduction-to-finops)
 
 ### CI/CD
 #### [ ] [Github Foundation](https://examregistration.github.com/certification/GHF)
@@ -16,11 +23,6 @@ markmap:
 
 ### Kubernetes
 #### [ ] [Certified K8s Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
-
-### AWS
-#### [ ] [AWS Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-#### [ ] [AWS SysOps Administrator](https://aws.amazon.com/pt/certification/certified-sysops-admin-associate/) 
-#### [ ] [AWS DevOps Engineer](https://aws.amazon.com/pt/certification/certified-devops-engineer-professional/)
 
 ## Courses
 ### [ ] [Develop a Site Reliability Engineering (SRE) strategy](https://learn.microsoft.com/en-us/training/paths/az-400-develop-sre-strategy/) 
