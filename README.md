@@ -34,7 +34,6 @@ markmap:
 ## Books
 ### [ ] [Descomplicando o Docker](https://livro.descomplicandodocker.com.br/)
 ### [ ] [Descomplicando o Kubernetes](https://livro.descomplicandokubernetes.com.br/pt/)
-### [ ] [Site Reliability Engineering: Google](https://sre.google/sre-book/table-of-contents/)
 ### [ ] [Jornada SRE no Brasil](https://www.amazon.com.br/Jornada-SRE-Brasil-confiabilidade-experi%C3%AAncia-ebook/dp/B0CCC5RPJQ) 
 ### [ ] [Cloud FinOps](https://www.amazon.com.br/Cloud-FinOps-2%C2%AA-Edi%C3%A7%C3%A3o-colaborativas-ebook/dp/B0D4BDYDGQ)
 ### [ ] [The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
