@@ -7,10 +7,6 @@ markmap:
 # DevOps Study
 
 ## Certifications
-### Azure
-#### [x] [Azure Administrator](https://learn.microsoft.com/pt-br/credentials/certifications/azure-administrator/?practice-assessment-type=certification)
-#### [x] [Azure Developer](https://learn.microsoft.com/pt-br/credentials/certifications/azure-developer/?practice-assessment-type=certification)
-#### [ ] [Azure DevOps Expert](https://learn.microsoft.com/pt-br/credentials/certifications/exams/az-400/)
 ### [ ] [FinOps Foundation](https://learn.finops.org/introduction-to-finops)
 
 ### CI/CD
@@ -33,7 +29,7 @@ markmap:
 ### [ ] [Linux Essentials](https://www.linuxtips.io/course/linux-essentials)
 ### [ ] [Python Essentials](https://www.linuxtips.io/course/python-essentials)
 ### [ ] [Terraform Essentials](https://www.linuxtips.io/course/terraform-essentials)
-### [x] [Introduction to GitOps](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/)
+### [ ] [Introduction to GitOps](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/)
 
 ## Books
 ### [ ] [Descomplicando o Docker](https://livro.descomplicandodocker.com.br/)
